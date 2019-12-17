@@ -5,7 +5,7 @@ public class TubesSorting {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         
-        int[] arr = {7, 5, 12, 3, 8, -1, 0};
+        int[] arr = {7, 5, 12, 3, 8, 0, -1};
         int length = arr.length;
         System.out.println("The input array: ");
         printArray(arr);
